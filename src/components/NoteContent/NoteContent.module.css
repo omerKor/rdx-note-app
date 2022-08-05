@@ -1,0 +1,104 @@
+.NoteContentContainer {
+	background-color: #f8f9fa;
+	padding: 50px;
+}
+
+.NoteContentCheckColorBtnGreen {
+	padding: 20px;
+	margin-top: 15px;
+	height: 75px;
+	width: 75px;
+	border-radius: 10px;
+	border: none;
+	background-color: #20c997;
+}
+
+.NoteContentCheckColorGrey {
+	background-color: rgba(128, 128, 128, 0.866);
+	padding: 20px;
+	margin-top: 15px;
+	height: 75px;
+	width: 75px;
+	border-radius: 10px;
+	border: none;
+}
+.NoteContentCheckColorBlue {
+	background-color: #0dcaf0;
+	padding: 20px;
+	margin-top: 15px;
+	height: 75px;
+	width: 75px;
+	border-radius: 10px;
+	border: none;
+}
+.NoteContentCheckColorYellow {
+	background-color: #ffc107;
+	padding: 20px;
+	margin-top: 15px;
+	height: 75px;
+	width: 75px;
+	border-radius: 10px;
+	border: none;
+}
+
+.submitButton {
+	background-color: green;
+	border-color: green;
+	padding: 10px;
+	margin: auto;
+	display: block;
+	margin-top: 25px;
+	color: white;
+	border-radius: 10px;
+	margin-bottom: -10px;
+	width: 100%;
+	height: 55px;
+}
+
+.submitButton:hover {
+	background-color: rgb(4, 163, 4);
+}
+
+.colorBox {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	margin-top: 25px;
+}
+.colorBox button {
+	border-radius: 50%;
+}
+
+h4 {
+	text-align: center;
+}
+
+img {
+	margin-bottom: 15px;
+	margin-left: -5px;
+}
+
+.mainTitle {
+	text-align: center;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 25px;
+}
+
+.footer a {
+	text-decoration: none;
+}
+
+.socialMediaIcons {
+	border-style: none;
+	background-color: transparent;
+	margin: 15px;
+}
+
+.socialMediaIcons:hover {
+	transform: scale(1.1);
+}

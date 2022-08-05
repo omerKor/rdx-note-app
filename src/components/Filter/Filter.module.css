@@ -1,0 +1,18 @@
+.searchInput {
+	margin: auto;
+	display: block;
+	width: 100%;
+	padding: 12px 20px;
+	border-radius: 10px;
+	border-color: transparent;
+	background-color: #f8f9fa;
+	margin: 10px;
+}
+
+.searchInput:focus {
+	background-color: white;
+}
+
+.container {
+	margin-top: 25px;
+}
