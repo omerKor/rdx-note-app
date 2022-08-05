@@ -1,6 +1,10 @@
 .NoteContentContainer {
 	background-color: #f8f9fa;
 	padding: 50px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
 }
 
 .NoteContentCheckColorBtnGreen {

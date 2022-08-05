@@ -24,4 +24,7 @@
 }
 .cardSize {
 	margin: 15px;
+	border-radius: 20px !important;
+	overflow: hidden;
+	width: 100%;
 }
